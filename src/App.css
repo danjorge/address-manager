@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.App-Headline {
+    text-align: 'center';
+    font-weight: 'bold';
+    font-Size: 18;
+    margin-top: 0;
+    width: 200;
+    background-color: 'yellow'
+}
